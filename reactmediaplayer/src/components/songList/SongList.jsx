@@ -76,7 +76,6 @@ const SongList = () => {
 
   return (
     <div className="SongList">
-      <h1>HELLO</h1>
       <h1>Song List</h1>
       <table>
         <thead>
